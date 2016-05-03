@@ -1,0 +1,13 @@
+.opt-in {
+	font-size: 8em;
+	text-align: center;
+	margin-top: 1em;
+	font-style: italic;
+	font-weight: 700;
+}
+
+.brand-logo {
+	background-image: url('');
+	width: 200px;
+	height: 150px;
+}
