@@ -1,13 +1,16 @@
-.opt-in {
-	font-size: 8em;
-	text-align: center;
-	margin-top: 1em;
-	font-style: italic;
-	font-weight: 700;
+.brand-logo {
+	background-image: url('./tf-logo-200x200.png');
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-top:-40px;
 }
 
-.brand-logo {
-	background-image: url('');
-	width: 200px;
-	height: 150px;
+ul{
+	margin-top: 40px;
+}
+
+li {
+	list-style: none;
+	padding: 5px;
 }
